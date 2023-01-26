@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <style>
+ 
+        /* Styling the body element
+        like body color and margin */
+         
+        body {
+            background-color: #FFA;
+            margin: 10%;
+        }
+ 
+        
+        #title {
+            text-align: center;
+            text-shadow: 5px 5px 10px white;
+            font-size: 7vh;
+        }
+ 
+        
+        type of image */
+        img {
+            display: inline-block;
+            width: 80%;
+        }
+ 
+     
+        #caption {
+            font-size: 17px;
+            font-family: Gill Sans;
+            color: black;
+        }
+ 
+        div#tribute-data {
+            background-color: rgb(46, 139, 87, 0.25);
+            box-shadow: 20px 20px 20px #82cefa;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+ 
+       
+        h1.title-QUEEN ELIZABETH {
+            font-size: 35px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+ 
+        
+        #tribute-link {
+            text-decoration: none;
+            color: black;
+        }
+    </style>
+</head>
+ 
+<body>
+    <main id="main">
+ 
+        <!-- Title of the page -->
+        <h1 id="title">
+            QUEEN ELIZABETH
+        </h1>
+ 
+        <div id="img">
+ 
+            <!--Image of the Tribute Person-->
+            <p style="text-align:center;"><img src=https://upload.wikimedia.org/wikipedia/commons/b/b2/Queen_Elizabeth_II_of_New_Zealand.jpg id="image"
+                alt="Error Loading Image"
+               width="400" 
+               height="500"></p>
+               
+            <small id="caption">
+           
+             
+             Elizabeth II (Elizabeth Alexandra Mary; 21 April 1926 – 8 September 2022) was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime, and was head of state of 15 realms at the time of her death. Her reign of 70 years and 214 days was the longest of any British monarch and the longest verified reign of any female monarch in history.
+            </small>
+        </div>
+ 
+        <div id="tribute-data">
+ 
+            <!--Achievements and other
+                details of the person-->
+            <h1 class="title-QUEEN">
+                Elizabeth of the United Kingdom
+            </h1>
+            
+    
+    
+ 
+             
+ 
+<p>
+                Elizabeth II, in full Elizabeth Alexandra Mary, officially Elizabeth II,was the elder daughter of Prince Albert, duke of York, and his wife, Lady Elizabeth Bowes-Lyon.<br><br>
+                King George VI passed away on February 6 , 1952 and Elizabeth was now under charge. The first three months of her reign, the period of full mourning for her father, were passed in comparative seclusion.  <br><br>
+                After she had moved from Clarence House to Buckingham Palace, she undertook the routine duties of the sovereign and carried out her first state opening of Parliament on November 4, 1952. Her coronation was held at Westminster Abbey on June 2, 1953.<br><br>
+                In 1961 she made the first royal British tour of the Indian subcontinent in 50 years, and she was also the first reigning British monarch to visit South America (in 1968) and the Persian Gulf countries (in 1979). During her “Silver Jubilee” in 1977, she presided at a London banquet attended by the leaders of the 36 members of the Commonwealth, traveled all over Britain and Northern Ireland, and toured overseas in the South Pacific and Australia, in Canada, and in the Caribbean. <br><br>
+              On the accession of Queen Elizabeth, her son Prince Charles became heir apparent; he was named prince of Wales on July 26, 1958.<br><br> 
+              The queen seemed increasingly aware of the modern role of the monarchy, allowing, for example, the televising of the royal family’s domestic life in 1970 and condoning the formal dissolution of her sister’s marriage in 1978. In the 1990s, however, the royal family faced a number of challenges.<br><br>
+              In 2002 Elizabeth celebrated her 50th year on the throne. As part of her “Golden Jubilee,” events were held throughout the Commonwealth, including several days of festivities in London. The celebrations were somewhat diminished by the deaths of Elizabeth’s mother and sister early in the year.
+               <br><br> 
+              In April 2011 Elizabeth led the family in celebrating the wedding of Prince William of Wales—the elder son of Charles and Diana—and Catherine Middleton. The following month she surpassed George III to become the second longest-reigning monarch in British history, behind Victoria. Also in May, Elizabeth made a historic trip to Ireland, becoming both the first British monarch to visit the Irish republic and the first to set foot in Ireland since 1911. 
+                <br><br>
+                In 2012 Elizabeth celebrated her “Diamond Jubilee,” marking 60 years on the throne. On September 9, 2015, she surpassed Victoria’s record reign of 63 years and 216 days.
+                Her financial and property holdings made her one of the world’s richest women. And took her last breath on September 8 ,2022.
+
+                <br><br><br>
+            </p>
+ 
+ 
+        </div>
+        <br>
+        <a id="tribute-link" href="#">
+            <b></b>@Created by K.LAKSHMI PRANAVI
+    </main>
+</body>
+ 
+</html>
